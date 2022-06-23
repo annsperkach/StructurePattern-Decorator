@@ -1,0 +1,15 @@
+C:\Users\An-PC\source\repos\Pizza\Pizza\bin\Debug\net5.0\Pizzamaker.exe
+C:\Users\An-PC\source\repos\Pizza\Pizza\bin\Debug\net5.0\Pizzamaker.deps.json
+C:\Users\An-PC\source\repos\Pizza\Pizza\bin\Debug\net5.0\Pizzamaker.runtimeconfig.json
+C:\Users\An-PC\source\repos\Pizza\Pizza\bin\Debug\net5.0\Pizzamaker.runtimeconfig.dev.json
+C:\Users\An-PC\source\repos\Pizza\Pizza\bin\Debug\net5.0\Pizzamaker.dll
+C:\Users\An-PC\source\repos\Pizza\Pizza\bin\Debug\net5.0\ref\Pizzamaker.dll
+C:\Users\An-PC\source\repos\Pizza\Pizza\bin\Debug\net5.0\Pizzamaker.pdb
+C:\Users\An-PC\source\repos\Pizza\Pizza\obj\Debug\net5.0\Pizzamaker.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\An-PC\source\repos\Pizza\Pizza\obj\Debug\net5.0\Pizzamaker.AssemblyInfoInputs.cache
+C:\Users\An-PC\source\repos\Pizza\Pizza\obj\Debug\net5.0\Pizzamaker.AssemblyInfo.cs
+C:\Users\An-PC\source\repos\Pizza\Pizza\obj\Debug\net5.0\Pizzamaker.csproj.CoreCompileInputs.cache
+C:\Users\An-PC\source\repos\Pizza\Pizza\obj\Debug\net5.0\Pizzamaker.dll
+C:\Users\An-PC\source\repos\Pizza\Pizza\obj\Debug\net5.0\ref\Pizzamaker.dll
+C:\Users\An-PC\source\repos\Pizza\Pizza\obj\Debug\net5.0\Pizzamaker.pdb
+C:\Users\An-PC\source\repos\Pizza\Pizza\obj\Debug\net5.0\Pizzamaker.genruntimeconfig.cache
